@@ -1,12 +1,20 @@
-h1 {
-  font-family: Helvetica;
-  font-size: 50px;
+body {
+  background-color: black;
   text-align: center;
+  font-family: Verdana;
+  color: white;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 42px;
 }
 .link {
   color: aquamarine;
   font-size: 16px;
 }
-p {
-  text-align: center;
+.slogan {
+  font-size: 21px;
+  color: gray;
 }
