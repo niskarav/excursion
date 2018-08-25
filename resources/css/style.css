@@ -14,7 +14,10 @@ h2 {
   color: aquamarine;
   font-size: 16px;
 }
-.slogan {
+p {
   font-size: 21px;
   color: gray;
+}
+.rights {
+  text-align: right;
 }
